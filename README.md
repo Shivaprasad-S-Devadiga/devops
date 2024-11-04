@@ -1,0 +1,2 @@
+# devops
+SKILL_DEVOLPEMENT_5TH_SEM
