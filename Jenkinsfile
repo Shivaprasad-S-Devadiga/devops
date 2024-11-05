@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone the repository
-                git 'https://github.com/Shivaprasad-S-Devadiga/devops.git'
+                git branch: 'main',git 'https://github.com/Shivaprasad-S-Devadiga/devops.git'
         }
 
         stage('Build') {
